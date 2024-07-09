@@ -1,0 +1,8 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+    <style name="ButtonStyleTextColor">
+        <item name="colorOnPrimary">@color/colorTabText</item>
+        <item name="colorOnSecondary">@color/colorTabText</item>
+    </style>
+    -->
+</resources>
